@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Sprint-JDBC-Task:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sprint_JDBC_Task_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Sprint-JDBC-Task/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Sprint-JDBC-Task" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
